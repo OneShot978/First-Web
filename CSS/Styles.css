@@ -1,0 +1,79 @@
+body {
+  text-align: center;
+  margin: 0;
+}
+stan {
+  text-decoration: underline;
+}
+.nft-banner {
+  width: 60%;
+  height: auto;
+}
+.profile-pic {
+  border-radius: 50%;
+  width: 20%;
+  height: auto;
+}
+.profile-block {
+  margin-top: 50px;
+}
+.nft-banner-block{
+  margin: 100px auto 10px auto;
+}
+.landing-part {
+  background-color: #79DAE8;
+}
+.Top-Part-Landing-Part {
+  padding-top: 30px;
+}
+h1 {
+  font-family: 'Sacramento', cursive;
+  font-size: 80px;
+}
+h2 {
+  font-family: 'PT Sans Narrow', sans-serif;
+  font-size: 30PX;
+  margin: 50px auto;
+}
+.first-sentence {
+margin: 30px auto;
+}
+h3 {
+  font-family: 'PT Sans Narrow', sans-serif;
+}
+hr {
+  border-top: 8px dotted #0AA1DD;
+  width: 5%;
+  margin: 100px auto;
+}
+.computer-pic {
+  float: left;
+}
+.skill-one-block {
+  width: 50%;
+  margin: 100px auto;
+  text-align: left;
+  line-height: 2
+}
+.skill-two-block {
+  width: 50%;
+  margin: 100px auto;
+  text-align: left;
+  line-height: 2
+}
+.blockchain-pic {
+  float: right;
+}
+.short-text {
+  width: 50%;
+  margin: auto;
+  line-height: 2;
+}
+p {
+  font-family: 'Oxygen', sans-serif;
+}
+.arrow-down {
+  width: 5%;
+  margin-top: 0;
+  padding-top: 0;
+}
